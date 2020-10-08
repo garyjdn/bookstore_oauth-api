@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea2bd511-0da0-4878-a285-24569c12d290" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/application.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/access_token/access_token.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/access_token/access_token_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/access_token/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/http/http_access_token.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/db/db_repository.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/errors/rest_error.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iQ6MTYTCOtte6hykqAwhW507FU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/http" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/garyjdn/bookstore_oauth-api/src">
+    <configuration name="go build github.com/garyjdn/bookstore_oauth-api/src" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/main.go" />
+      <package value="github.com/garyjdn/bookstore_oauth-api/src" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAccessToken_IsExpired in github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/domain/access_token" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestAccessToken_IsExpired\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetNewAccessToken in github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/domain/access_token" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetNewAccessToken\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test access_token" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/domain/access_token" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/garyjdn/bookstore_oauth-api" />
+      <directory value="$PROJECT_DIR$/src/domain/access_token" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_oauth-api" />
+      <working_directory value="$PROJECT_DIR$/src/domain/access_token" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/garyjdn/bookstore_oauth-api/src" />
+        <item itemvalue="Go Test.go test github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" />
+        <item itemvalue="Go Test.go test access_token" />
+        <item itemvalue="Go Test.TestAccessToken_IsExpired in github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" />
+        <item itemvalue="Go Test.TestGetNewAccessToken in github.com/garyjdn/bookstore_oauth-api/src/domain/access_token" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea2bd511-0da0-4878-a285-24569c12d290" name="Default Changelist" comment="" />
+      <created>1601827426472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601827426472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="181" width="659" height="444" key="EditFileWatcherDialog" timestamp="1601827697082">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="348" y="181" width="659" height="444" key="EditFileWatcherDialog/0.36.1366.732@0.36.1366.732" timestamp="1601827697082" />
+    <state width="1320" height="171" key="GridCell.Tab.0.bottom" timestamp="1602037300765">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.bottom/0.36.1366.732@0.36.1366.732" timestamp="1602037300765" />
+    <state width="1320" height="171" key="GridCell.Tab.0.center" timestamp="1602037300764">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.center/0.36.1366.732@0.36.1366.732" timestamp="1602037300764" />
+    <state width="1320" height="171" key="GridCell.Tab.0.left" timestamp="1602037300763">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.left/0.36.1366.732@0.36.1366.732" timestamp="1602037300763" />
+    <state width="1320" height="171" key="GridCell.Tab.0.right" timestamp="1602037300764">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.right/0.36.1366.732@0.36.1366.732" timestamp="1602037300764" />
+    <state x="187" y="36" width="992" height="732" key="SettingsEditor" timestamp="1601827699614">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="187" y="36" width="992" height="732" key="SettingsEditor/0.36.1366.732@0.36.1366.732" timestamp="1601827699614" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bookstore_oauth_api$TestAccessToken_IsExpired_in_github_com_garyjdn_bookstore_oauth_api_src_domain_access_token.out" NAME="TestAccessToken_IsExpired in github.com/garyjdn/bookstore_oauth-api/src/domain/access_token Coverage Results" MODIFIED="1601828721760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bookstore_oauth_api$go_test_github_com_garyjdn_bookstore_oauth_api_src_domain_access_token.out" NAME="go test github.com/garyjdn/bookstore_oauth-api/src/domain/access_token Coverage Results" MODIFIED="1601829424512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bookstore_oauth_api$TestGetNewAccessToken_in_github_com_garyjdn_bookstore_oauth_api_src_domain_access_token.out" NAME="TestGetNewAccessToken in github.com/garyjdn/bookstore_oauth-api/src/domain/access_token Coverage Results" MODIFIED="1601828171199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/bookstore_oauth_api$go_test_access_token.out" NAME="go test access_token Coverage Results" MODIFIED="1601828984134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
